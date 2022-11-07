@@ -1,0 +1,15 @@
+.featured .card:hover {
+  background: #e96b56;
+  transition: 0.3s;
+  transition: all ease-in-out 0.3s;
+}
+
+.featured .card:hover p {
+  color: #fff;
+}
+
+.featured .card{
+	border-radius: 5px; 
+	font-weight: bold; 
+	color: #545454;
+}
